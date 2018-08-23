@@ -3,3 +3,13 @@ Copyright 2013 - The CyanogenMod Project
 Common device configuration for Samsung Galaxy S4 Mini
 
 WORK IN PROGRESS. WILL EAT YOUR CAT.
+
+
+
+##################################################
+
+Really useful：toybox
+
+CM13 toybox insmod ***.ko success
+
+otherwise insmod: failed to load /sdcard/***.ko: Bad address 
